@@ -1,4 +1,4 @@
-NIST 800-171 CUI Demo App
+NIST 800-171 CUI Demo Web App
 ====================
 A simple CUI (controlled unclassified information) demo which shows that you can use the Azure Deploy Button without a custom Azure Resource Manager template (azuredeploy.json).
 
